@@ -1,5 +1,6 @@
 package com.pedromolon.granjaapi.repository;
 
+import com.pedromolon.granjaapi.domain.Empresa;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
